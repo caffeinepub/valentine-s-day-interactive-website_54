@@ -1,0 +1,6 @@
+{
+  "frontend/src/App.tsx": "Main Valentine's Day application component featuring an interactive proposal with \"Yes\" and \"No\" buttons, where the \"No\" button moves away on interaction and displays 7 playful messages sequentially, and clicking \"Yes\" shows a success celebration screen.",
+  "frontend/src/components/FloatingBalloons.tsx": "Component that renders animated floating heart balloons using the provided balloon assets, creating a romantic background atmosphere with random positioning, delays, and durations.",
+  "frontend/src/index.css": "Global styles with a Valentine's Day color palette using OKLCH colors (pinks, reds, whites), custom animations for floating balloons, swaying motion, and heartbeat effects, plus a romantic gradient background.",
+  "frontend/tailwind.config.js": "Tailwind configuration extended with custom Valentine's Day color tokens (valentine-red, valentine-pink, etc.) mapped to CSS variables for consistent theming throughout the application."
+}
